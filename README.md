@@ -1,6 +1,10 @@
+
+# Windows
 <p align="center">
   <img src="assets/fastfetch.png" alt="Fastfetch preview" width="800">
 </p>
+
+# Linux
 
 # fastfetch
 
